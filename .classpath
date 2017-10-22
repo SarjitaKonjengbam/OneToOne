@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/antlr-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/hibernate-core-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/javaee.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/Programs/hibernate_Lib/singleton.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
